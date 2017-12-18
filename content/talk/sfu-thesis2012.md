@@ -1,7 +1,7 @@
 +++
 date = 2012-08-03  # Schedule page publish date.
 
-title = "Floquet Theory for Internal Gravity Wves in a Density-Stratified Fluid"
+title = "Floquet Theory for Internal Gravity Waves in a Density-Stratified Fluid"
 time_start = "2012-08-03"
 time_end = ""
 abstract = ""
