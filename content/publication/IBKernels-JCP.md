@@ -35,7 +35,8 @@ selected = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1505.07529.pdf"
+url_preprint = "https://arxiv.org/abs/1505.07529"
+url_pdf = "papers/IBkernels-jcp.pdf"
 url_custom = [{name = "Journal", url = "https://doi.org/10.1016/j.jcp.2016.04.024"}]
 url_code = "https://github.com/stochasticHydroTools/IBMethod"
 # url_dataset = "#"

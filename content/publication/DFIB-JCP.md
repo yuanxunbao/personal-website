@@ -36,7 +36,8 @@ selected = true
 
 # Links (optional).
 url_custom = [{name = "Journal", url = "https://doi.org/10.1016/j.jcp.2017.06.041"}]
-url_pdf = "https://arxiv.org/pdf/1701.07169.pdf"
+url_preprint = "https://arxiv.org/abs/1701.07169"
+url_pdf = "papers/DFIB-jcp.pdf"
 # url_code = "#"
 # url_dataset = "#"
 # url_project = "#"
