@@ -17,13 +17,14 @@ weight = 60
 
 *Recitation Leader*, NYU
 
+- {{% staticref "files/PDE18-recitation.pdf" "newtab" %}}Partial Differential Equations: Spring 2018{{% /staticref %}}
 - Math for Economics I/II: Fall 2015, Spring/Fall 2016, Fall 2017
 - Calculus I: Fall 2014, Spring 2015
 
 *Graduate Course Grader/TA*, NYU
 
 - High Performance Computing: Spring 2017
-- Numerical Methods II: Spring 2017
+- Numerical Methods II: Spring 2017, Spring 2018
 - Linear Algebra I: Spring 2014
 - Scientific Computing: Fall 2013
 

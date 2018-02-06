@@ -257,10 +257,10 @@ defaultContentLanguageInSubdir = false
   url = "#teaching"
   weight = 4
 
-[[menu.main]]
-  name = "CV"
-  url = "cv/CV-YuanxunBao.pdf"
-  weight = 5
+# [[menu.main]]
+#  name = "CV"
+#  url = "cv/CV-YuanxunBao.pdf"
+#  weight = 5
   
 [[menu.main]]
   name = "Contact"
