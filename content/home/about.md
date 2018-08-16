@@ -22,7 +22,7 @@ weight = 5
 [[education.courses]]
   course = "Ph.D. in Mathematics"
   institution = "New York University"
-  year = "2018 (expected)"
+  year = 2018
 
 [[education.courses]]
   course = "M.Sc. in Applied Mathematics"

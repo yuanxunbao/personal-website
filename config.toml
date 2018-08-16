@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Yuanxun Bao"
-  role = "Ph.D. Candidate in Mathematics"
+  role = "Ph.D. in Mathematics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -48,8 +48,8 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "mypic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "billbao@cims.nyu.edu"
-  address = "Office: WWH 1003, 251 Mercer Street, New York, NY 10012, USA"
+  email = "billbao 'at' cims 'dot' nyu 'dot' edu"
+  address = "251 Mercer Street, New York, NY 10012, USA"
   office_hours = ""
   phone = ""
   skype = ""
@@ -205,7 +205,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:billbao@cims.nyu.edu"
+    link = "mailto:billbao 'at' cims 'dot' nyu 'dot' edu"
 
   [[params.social]]
     icon = "linkedin"
