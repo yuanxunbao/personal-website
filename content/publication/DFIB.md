@@ -17,8 +17,8 @@ authors = ["**Y. Bao**", "A. Donev", "B. E. Griffith", "D. M. McQueen", "C. S. P
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Computational Physics*."
-publication_short = "In *J. Comput. Phys.*"
+publication = "*Journal of Computational Physics*, vol. 347, pp. 183-206"
+publication_short = "*J. Comput. Phys.*, vol. 347, pp. 183-206"
 
 # Abstract and optional shortened version.
 abstract = "The Immersed Boundary (IB) method is a mathematical framework for constructing robust numerical methods to study fluid–structure interaction in problems involving an elastic structure immersed in a viscous fluid. The IB formulation uses an Eulerian representation of the fluid and a Lagrangian representation of the structure. The Lagrangian and Eulerian frames are coupled by integral transforms with delta function kernels. The discretized IB equations use approximations to these transforms with regularized delta function kernels to interpolate the fluid velocity to the structure, and to spread structural forces to the fluid. It is well-known that the conventional IB method can suffer from poor volume conservation since the interpolated Lagrangian velocity field is not generally divergence-free, and so this can cause spurious volume changes. In practice, the lack of volume conservation is especially pronounced for cases where there are large pressure differences across thin structural boundaries. The aim of this paper is to greatly reduce the volume error of the IB method by introducing velocity-interpolation and force-spreading schemes with the properties that the interpolated velocity field in which the structure moves is at least and satisfies a continuous divergence-free condition, and that the force-spreading operator is the adjoint of the velocity-interpolation operator. We confirm through numerical experiments in two and three spatial dimensions that this new IB method is able to achieve substantial improvement in volume conservation compared to other existing IB methods, at the expense of a modest increase in the computational cost. Further, the new method provides smoother Lagrangian forces (tractions) than traditional IB methods. The method presented here is restricted to periodic computational domains. Its generalization to non-periodic domains is important future work."
@@ -38,7 +38,7 @@ selected = true
 url_custom = [{name = "Journal", url = "https://doi.org/10.1016/j.jcp.2017.06.041"}]
 url_preprint = "https://arxiv.org/abs/1701.07169"
 url_pdf = "papers/DFIB-jcp.pdf"
-# url_code = "#"
+url_code = "https://github.com/stochasticHydroTools/DFIB.git"
 # url_dataset = "#"
 # url_project = "#"
 # url_slides = "#"

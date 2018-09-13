@@ -17,8 +17,8 @@ authors = ["**Y. Bao**", "J. Kaye", "C. S. Peskin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Computational Physics*."
-publication_short = "In *J. Comput. Phys.*"
+publication = "*Journal of Computational Physics*, vol. 316, pp. 139-144"
+publication_short = "*J. Comput. Phys.*, vol. 316, pp. 139-144"
 
 # Abstract and optional shortened version.
 abstract = "The immersed boundary (IB) method is a general mathematical framework for studying problems involving fluid–structure interactions in which an elastic structure is immersed in a viscous incompressible fluid. In the IB formulation, the fluid described by Eulerian variables is coupled with the immersed structure described by Lagrangian variables via the use of the Dirac delta function. From a numerical standpoint, the Lagrangian force spreading and the Eulerian velocity interpolation are carried out by a regularized, compactly supported discrete delta function, which is assumed to be a tensor product of a single-variable immersed-boundary kernel. IB kernels are derived from a set of postulates designed to achieve approximate grid translational invariance, interpolation accuracy and computational efficiency. In this note, we present a new 6-point immersed-boundary kernel that is $\\mathscr{C}^3$ and yields a substantially improved translational invariance compared to other common IB kernels."
