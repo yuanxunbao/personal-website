@@ -35,7 +35,8 @@ selected = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1709.01480.pdf"
+url_custom = [{name = "Journal", url = "https://doi.org/10.1016/j.jcp.2018.08.021"}]
+url_pdf = "papers/fbim.pdf"
 url_preprint = "https://arxiv.org/abs/1709.01480"
 # url_code = "#"
 # url_dataset = "#"
